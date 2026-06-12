@@ -14,7 +14,7 @@ from aiogram.filters import Command, StateFilter
 from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 from aiogram.types import (
-    InlineKeyboardButton, InlineKeyboardMarkup, Message, CallbackQuery
+    InlineKeyboardButton, InlineKeyboardMarkup, Message, CallbackQuery , BufferedInputFile
 )
 from aiogram.enums import ChatAction
 
